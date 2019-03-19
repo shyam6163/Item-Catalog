@@ -73,7 +73,3 @@ gadget Items JSON: `/gadget/<path:gadget_id>/menu/JSON`
 
 gadget Item JSON: `/gadget/<path:gadget_id>/<path:menu_id>/JSON`
     - Displays a specific gadget item.
-
-## Miscellaneous
-
-This project is inspiration from https://github.com/SkBadulla/Item_Catalog
